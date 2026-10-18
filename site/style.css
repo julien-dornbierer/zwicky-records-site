@@ -79,3 +79,7 @@ footer { font-family: var(--mono); font-size: 11px; letter-spacing: .12em; text-
   .facts dd { margin-bottom: 14px; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+/* Artist links (to the artist site) */
+a.band { text-decoration: none; border-bottom: 1px solid transparent; transition: color .15s, border-color .15s; }
+a.band:hover { color: var(--accent); border-bottom-color: var(--accent); }
