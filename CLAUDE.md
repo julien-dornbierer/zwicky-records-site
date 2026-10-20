@@ -18,6 +18,6 @@ jamais de contrats, de chiffres, de stratégie interne ni de musique non sortie.
 - Charte : manuel de corporate design dans le Drive (PRIVATE EPK > Z999999 __ ZWICKY-RECORDS).
 
 ## Contenu
-- Catalogue : ZWR 001, The Clive, CGCG Volume IX.
+- Catalogue : ZWR 001, The Clive, nouvel album (2027). Ne pas publier le titre de l'album tant qu'il n'est pas annoncé.
 - Booking : Nora Weber, booking@zwickyrecords.com (Switzerland and international).
 - Site en anglais uniquement.
