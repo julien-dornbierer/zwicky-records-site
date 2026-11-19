@@ -19,5 +19,5 @@ jamais de contrats, de chiffres, de stratégie interne ni de musique non sortie.
 
 ## Contenu
 - Catalogue : ZWR 001, The Clive, nouvel album (2027). Ne pas publier le titre de l'album tant qu'il n'est pas annoncé.
-- Booking : Nora Weber, booking@zwickyrecords.com (Switzerland and international).
+- Booking : Julien (prénom seul, jamais de nom de famille), booking@zwickyrecords.com (Switzerland and international).
 - Site en anglais uniquement.
